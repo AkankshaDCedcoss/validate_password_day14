@@ -1,0 +1,178 @@
+.main
+{
+    background: #993333;
+    color: white;
+}
+.main h1{
+    padding-left: 450px;
+    font-size: 2.6em;
+}
+.main h2{
+    padding-left: 450px;
+    font-size: 2.2em;
+}
+.main label
+{
+    padding-left: 200px;
+    font-size: 1.4em;
+    padding-bottom: 100px;
+}
+.main input[type="text"]
+{
+    padding-left: 200px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    margin-left: 190px;
+}
+.main input[type="email"]
+{
+    padding-left: 200px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    margin-left: 190px;
+}
+.main input[type="password"]
+{
+    padding-left: 200px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    margin-left: 160px;
+}
+.main input[type="radio"]
+{
+    
+    margin-bottom: 15px;
+    margin-top: 15px;
+    margin-left: 210px;
+}
+.main input[type="date"]
+{
+   
+    margin-bottom: 15px;
+    margin-top: 15px;
+    margin-left: 195px;
+}
+.main select
+{
+   
+    margin-bottom: 15px;
+    margin-top: 15px;
+    margin-left: 150px;
+}
+.main input[type="reset"]
+{
+   
+    margin-bottom: 15px;
+    margin-top: 15px;
+    margin-left: 200px;
+    padding-left:15px;
+    padding-right:15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.main input[type="submit"]
+{
+   
+    margin-bottom: 15px;
+    margin-top: 15px;
+    margin-left: 180px;
+    padding-left:15px;
+    padding-right:15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+#address
+{
+    margin-left: 170px;
+}
+#mobile
+{
+    margin-left: 100px;
+}
+#select1
+{
+    margin-left: 180px;
+}
+#select2
+{
+    margin-left: 135px;
+}
+#select3
+{
+    margin-left: 180px;
+}
+
+#date
+{
+    margin-left: 180px;
+}
+#check9
+{
+    margin-left: 500px;
+    font-size: 1.2em;
+}
+#check3
+{
+    margin-left: 500px;
+    font-size: 1.2em;
+}
+#check4
+{
+    margin-left: 500px;
+    font-size: 1.2em;
+}
+#check2
+{
+    margin-left: 500px;
+    font-size: 1.2em;
+}
+#check5
+{
+    margin-left: 500px;
+    font-size: 1.2em;
+}
+#check6
+{
+    margin-left: 500px;
+    font-size: 1.2em;
+}
+#check7
+{
+    margin-left: 500px;
+    font-size: 1.2em;
+}
+#check1
+{
+    margin-left: 500px;
+    font-size: 1.2em;
+}
+#check8
+{
+    margin-left: 500px;
+    font-size: 1.2em;
+}
+#check10
+{
+    margin-left: 500px;
+    font-size: 1.2em;
+}
+#check11
+{
+    margin-left: 500px;
+    font-size: 1.2em;
+}
+#check12
+{
+    margin-left: 500px;
+    font-size: 1.2em;
+}
+#check13
+{
+    margin-left: 500px;
+    font-size: 1.2em;
+}
+#check14
+{
+    margin-left: 500px;
+    font-size: 1.2em;
+}
